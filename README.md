@@ -1,2 +1,3 @@
 # Identifikasi-Warna-Kulit
-Nama : Anastasya SIburian
+Nama : Anastasya Siburian
+NIM : 09011281924079
